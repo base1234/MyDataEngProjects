@@ -41,7 +41,7 @@ Install with:
 pip install yfinance pandas matplotlib seaborn
 
 Author:
-SN
+Srikanth Narayanan
 
 License:
 MIT
